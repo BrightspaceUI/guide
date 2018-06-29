@@ -1,7 +1,7 @@
-# The Guide
+# Brightspace UI: The Guide
 
-This repo will contain documentation, code samples and tools to teach you everything you need to know about how we use web components at D2L.
+This repo contains documentation, code samples and tools to teach you everything you need to know about how we use web components at D2L.
 
-It's a WIP, so stay tuned!
+![web components logo](https://raw.githubusercontent.com/wiki/BrightspaceUI/guide/images/web-components-logo.png)
 
-[Check out the Wiki](https://github.com/BrightspaceUI/guide/wiki) to begin!
+> [Check out the Wiki](https://github.com/BrightspaceUI/guide/wiki) to begin!
